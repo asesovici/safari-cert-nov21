@@ -1,0 +1,10 @@
+*.class
+.apt_generated
+.factorypath
+.settings
+.springBeans
+/.metadata/
+.recommenders/
+/RemoteSystemsTempFiles/
+/Servers/
+**/classes
